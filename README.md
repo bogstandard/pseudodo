@@ -1,5 +1,3 @@
-![An old drawing of a Dodo stooping, artist unknown](https://raw.githubusercontent.com/bogstandard/pseudodo/master/dodo.jpg?token=ACHMHCRFV325JC5WPLCDQ7K5DPEBU)
-
 # Pseudodo
 Polyfill for animatable content properties on pseudo elements in non-supportive browsers (eg. Safari).
 
@@ -25,6 +23,3 @@ require('pseudodo')
 # Contributors
 
 This was built from a gist so its pretty rough, if you can improve it please contribute away!
-
-## Dodo image
-The Dodo image is from [Old Book Illustrations](https://www.oldbookillustrations.com/illustrations/raphus-cucullatus/), artist sadly unknown.
